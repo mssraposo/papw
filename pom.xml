@@ -19,8 +19,8 @@
 		<java.version>1.8</java.version>
 		 <sonar.projectKey>mssraposo_papw</sonar.projectKey>
 		 <sonar.organization>mssraposo</sonar.organization>
-		 <sonar.host.url>https://sonarcloud.io</sonar.host.url>
-		 <sonar.login>eb05d69c4fdef212b977b27eb90764477aa9d9c5</sonar.login>
+		 <sonar.host.url>http://ip172-18-0-20-brl081aosm4g00c7j1vg-9000.direct.labs.play-with-docker.com</sonar.host.url>
+		 <sonar.login>0910ef6d443d6a04f1bd1c541712ab0a868f5403</sonar.login>
 
 	</properties>
 
