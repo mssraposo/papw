@@ -18,8 +18,8 @@
 	<properties>
 		<java.version>1.8</java.version>
 		 <sonar.projectKey>fuji</sonar.projectKey>
-		 <sonar.host.url>http://ip172-18-0-24-brl1nedim9m00092aoug-9000.direct.labs.play-with-docker.com</sonar.host.url>
-		 <sonar.login>ed678f2c3bd3815a2027b98dcb72496db9eaf23d</sonar.login>
+		 <sonar.host.url>http://ip172-18-0-79-brll4liosm4g008kumu0-9000.direct.labs.play-with-docker.com</sonar.host.url>
+		 <sonar.login>540cd3f97c0890bae9b60dd9a7de0fd067bed6d2</sonar.login>
 
 	</properties>
 
